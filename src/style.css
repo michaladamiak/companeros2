@@ -3,7 +3,7 @@ html{scroll-behavior:smooth}
 body {
     margin: 0;
     /* background-color: rgb(234, 210, 186); */
-    background-image: url("img/newgrain.jpeg");
+    background-image: url("img/newgrain.jpg");
     /* background-color: rgb(255, 236, 209); */
     background-size: contain;
     /* background-size: cover; */
